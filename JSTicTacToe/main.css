@@ -1,0 +1,46 @@
+/* body{
+    background-color:yellowgreen;
+    color: white;
+    margin: 0 auto;
+    padding: 0px; */
+    /* box-sizing: border-box;
+    text-align: center;
+}
+#container{
+    color: springgreen;
+}
+button{
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+}
+button :hover{
+    background-color: blanchedalmond;
+} */
+button {
+    background-color:bisque;
+    font-weight: bold;
+    font-size: 20px;
+    height: 150px;
+    width: 150px;
+    /* padding: 5px;
+    margin: 5px; */
+    text-align: center;
+}
+body{
+    margin: 0 auto;
+    padding: 0px;
+    text-align: center;
+}
+div {
+    margin-left: 33.5%;
+    margin-top: 5%;
+    margin-right: 50%;
+} 
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
